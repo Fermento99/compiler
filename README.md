@@ -20,7 +20,7 @@
   - **loops.py**
   - **maths.py**
   - **operations.py**
-- **memory.py** (_rogram eksportujacy klase reprezntujaca pamiec maszyny_)
+- **memory.py** (_program eksportujacy klase reprezntujaca pamiec maszyny_)
 
 ---
 
